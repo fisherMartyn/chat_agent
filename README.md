@@ -4,6 +4,8 @@
 
 http://114.254.87.73:18888/
 
+Note：服务器环境不太稳定，打开失败了刷新几次
+
 ## PromptFlow DAG
 
 ![可选的图片描述](https://github.com/fisherMartyn/chat_agent/blob/main/PromotFlow-DAG.png)
