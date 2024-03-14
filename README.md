@@ -9,7 +9,7 @@ Note：服务器环境不太稳定，如果打开失败，多刷新几次即可
 
 ## PromptFlow DAG V2
 
-![可选的图片描述](https://github.com/fisherMartyn/chat_agent/blob/main/PromotFlow-DAG-V2.png)
+![可选的图片描述](images/PromotFlow-DAG-V2.png)
 
 V2相对于V1删除了motivation_detect功能，直接在augmented_chat中提出问题。
 
@@ -29,7 +29,7 @@ V2相对于V1删除了motivation_detect功能，直接在augmented_chat中提出
 
 ## PromptFlow DAG
 
-![可选的图片描述](https://github.com/fisherMartyn/chat_agent/blob/main/PromotFlow-DAG.png)
+![可选的图片描述](images/PromotFlow-DAG.png)
 
 ## 三个prompt
 
